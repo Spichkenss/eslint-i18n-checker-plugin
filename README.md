@@ -1,4 +1,4 @@
-# eslint-i18n-checker-plugin
+# @spichkens/eslint-plugin-i18n-keys
 
 ## Installation
 
