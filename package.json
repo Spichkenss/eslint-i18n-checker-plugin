@@ -1,6 +1,6 @@
 {
   "name": "@spichkens/eslint-plugin-i18n-keys",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
