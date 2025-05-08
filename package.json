@@ -1,0 +1,23 @@
+{
+  "name": "eslint-i18n-checker-plugin",
+  "version": "0.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "eslint",
+    "plugin"
+  ],
+  "author": "spichkens",
+  "license": "MIT",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spichkenss/eslint-i18n-checker-plugin"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17"
+  }
+}
