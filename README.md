@@ -7,9 +7,9 @@ First, make sure you have [ESlint](https://www.npmjs.com/package/eslint) install
 npm i --save-dev eslint
 ```
 
-After that install `eslint-plugin-i18n-key-checker` plugin:
+After that install `eslint-plugin-i18n-keys` plugin:
 ```bash
-npm install --save-dev eslint-plugin-i18n-key-checker
+npm install --save-dev eslint-plugin-i18n-keys
 ```
 
 ## Usage
