@@ -18,9 +18,9 @@ Example config:
 
 ```js
 export default {
-  plugins: ['i18n-checker'],
+  plugins: ['i18n-keys'],
   rules: {
-    'i18n-checker/json-key-exists': ['error', {
+    'i18n-keys/no-missing-i18n-keys': ['error', {
       localesPath: 'public/locales',
       defaultLocale: 'en',
       defaultNamespace: 'common'
